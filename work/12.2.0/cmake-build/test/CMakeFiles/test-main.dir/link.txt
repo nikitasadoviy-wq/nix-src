@@ -1,0 +1,2 @@
+/nix/store/z4c6k0mrlkwl3s4w9ysxc8vq1wylm3ms-gcc-wrapper-15.3.0/bin/ar qc libtest-main.a "CMakeFiles/test-main.dir/test-main.cc.o" "CMakeFiles/test-main.dir/gtest-extra.cc.o" "CMakeFiles/test-main.dir/util.cc.o"
+/nix/store/z4c6k0mrlkwl3s4w9ysxc8vq1wylm3ms-gcc-wrapper-15.3.0/bin/ranlib libtest-main.a

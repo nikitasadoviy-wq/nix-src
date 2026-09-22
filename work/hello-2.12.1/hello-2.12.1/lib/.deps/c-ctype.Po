@@ -1,0 +1,7 @@
+lib/c-ctype.o: lib/c-ctype.c \
+ /nix/store/lbjwxax9n0457lgd83rqwpd1l9lgfl7r-glibc-2.42-84-dev/include/stdc-predef.h \
+ config.h lib/c-ctype.h lib/stdbool.h
+/nix/store/lbjwxax9n0457lgd83rqwpd1l9lgfl7r-glibc-2.42-84-dev/include/stdc-predef.h:
+config.h:
+lib/c-ctype.h:
+lib/stdbool.h:

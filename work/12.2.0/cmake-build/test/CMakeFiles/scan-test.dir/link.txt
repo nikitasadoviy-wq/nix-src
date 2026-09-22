@@ -1,0 +1,1 @@
+/nix/store/z4c6k0mrlkwl3s4w9ysxc8vq1wylm3ms-gcc-wrapper-15.3.0/bin/g++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/scan-test.dir/link.d "CMakeFiles/scan-test.dir/scan-test.cc.o" "CMakeFiles/scan-test.dir/test-main.cc.o" "CMakeFiles/scan-test.dir/gtest-extra.cc.o" "CMakeFiles/scan-test.dir/util.cc.o" "CMakeFiles/scan-test.dir/__/src/os.cc.o" -o ../bin/scan-test  gtest/libgtest.a

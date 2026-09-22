@@ -1,0 +1,1 @@
+/nix/store/z4c6k0mrlkwl3s4w9ysxc8vq1wylm3ms-gcc-wrapper-15.3.0/bin/g++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/format-test.dir/link.d "CMakeFiles/format-test.dir/format-test.cc.o" -o ../bin/format-test  libtest-main.a ../libfmt.a gtest/libgtest.a

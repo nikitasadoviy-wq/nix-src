@@ -1,0 +1,3 @@
+/home/nikituch/Projects/nix-src/build/CMakeFiles/nix-src.dir
+/home/nikituch/Projects/nix-src/build/CMakeFiles/edit_cache.dir
+/home/nikituch/Projects/nix-src/build/CMakeFiles/rebuild_cache.dir
