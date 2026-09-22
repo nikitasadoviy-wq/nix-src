@@ -1,1 +1,0 @@
-/nix/store/z4c6k0mrlkwl3s4w9ysxc8vq1wylm3ms-gcc-wrapper-15.3.0/bin/g++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/perf-sanity.dir/link.d "CMakeFiles/perf-sanity.dir/perf-sanity.cc.o" -o ../bin/perf-sanity  ../libfmt.a

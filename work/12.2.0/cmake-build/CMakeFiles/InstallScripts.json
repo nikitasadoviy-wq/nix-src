@@ -1,9 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/nikituch/Projects/nix-src/work/12.2.0/cmake-build/cmake_install.cmake",
-		"/home/nikituch/Projects/nix-src/work/12.2.0/cmake-build/test/cmake_install.cmake",
-		"/home/nikituch/Projects/nix-src/work/12.2.0/cmake-build/test/gtest/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

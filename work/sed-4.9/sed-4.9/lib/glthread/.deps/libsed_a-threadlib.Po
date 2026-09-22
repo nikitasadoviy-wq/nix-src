@@ -1,5 +1,0 @@
-lib/glthread/libsed_a-threadlib.o: lib/glthread/threadlib.c \
- /nix/store/lbjwxax9n0457lgd83rqwpd1l9lgfl7r-glibc-2.42-84-dev/include/stdc-predef.h \
- config.h
-/nix/store/lbjwxax9n0457lgd83rqwpd1l9lgfl7r-glibc-2.42-84-dev/include/stdc-predef.h:
-config.h:

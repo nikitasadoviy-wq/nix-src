@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/nikituch/Projects/nix-src/build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
